@@ -1,5 +1,5 @@
 # MVM-Interfaces
 
-Smart contract interfaces for MVM contract in both solidity and vyper 
+Smart contract interfaces for MVM contracts in both solidity and vyper
 
-ChatGPT is fully responsible for the correction of the interfaces.
+ChatGPT is fully responsible for the correctness of the interfaces.
